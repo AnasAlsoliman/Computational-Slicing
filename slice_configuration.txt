@@ -1,0 +1,17 @@
+{
+    "1": {
+    	"slice_id": 1,
+        "housed_nodes": [2, 3],
+        "max_bandwidth": 250000
+    },
+    "2": {
+    	"slice_id": 2,
+        "housed_nodes": [3, 6],
+        "max_bandwidth": 125000
+    },
+    "3": {
+    	"slice_id": 3,
+        "housed_nodes": [4, 7],
+        "max_bandwidth": 62500
+    }
+}
